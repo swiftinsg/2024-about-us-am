@@ -24,6 +24,10 @@ struct Group3View: View {
                 .tabItem {
                     Label("Pavi", systemImage: "cloud")
                 }
+            Text("yipee !!")
+                .tabItem {
+                    Label("Lili", systemImage: "pencil")
+                }
         }
     }
 }
