@@ -17,7 +17,7 @@ struct Group2View: View {
             
             FeliciaView()
                 .tabItem {
-                    Label("felicia", image: "feliciapb")
+                    Label("felicia hi ", image: "feliciapb")
                 }
             
             CKJView()
