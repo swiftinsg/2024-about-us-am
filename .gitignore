@@ -1,0 +1,73 @@
+# User-specific files
+*.swp
+*.swo
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Xcode
+DerivedData/
+.idea/
+*.xcworkspace/
+xcuserdata/
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Accio dependency management
+Dependencies/
+.accio/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# Code Coverage
+xccovreport/
+xccovarchive/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.orig
+*.so
+*.log
+*.swp
+*.swo
+*.DS_Store
+
+# Build generated
+.build/
+*.dSYM/
+.build/
+DerivedData/
+*.hmap
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Xcode
+*.xcworkspace
+xcuserdata/
+DerivedData/
+.idea/
+
+# SPM Packages
+Packages/
+
