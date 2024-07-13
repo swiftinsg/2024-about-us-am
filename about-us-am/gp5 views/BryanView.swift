@@ -9,7 +9,13 @@ import SwiftUI
 
 struct BryanView: View {
     var body: some View {
-        Text("Hello, Swift!")
+        ZStack{
+            Image("goodmorning")
+            VStack{
+                Text("Hello, future apple fruit innovaties")
+                Image("hitlerandstalin")
+            }
+        }
     }
 }
 
