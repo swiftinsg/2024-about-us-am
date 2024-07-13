@@ -22,7 +22,7 @@ struct JaviusView: View {
                         count += 1
                     }label:{
                         HStack{
-                            Image(systemName: "star")
+                            Image(systemName: "star.fill")
                             Text(": \(count)")
                         }
                     }
