@@ -24,8 +24,13 @@ struct Group5View: View {
                 .tabItem {
                     Label("Person 3", systemImage: "person.fill.turn.down")
                 }
-            
             BryanView()
+                .tabItem {
+                    Label("Bryan",
+                          systemImage:
+                            "person")
+                }
+            Text("This is person 5! Replace me with a view.")
                 .tabItem {
                     Label("Person 5",
                           systemImage:
