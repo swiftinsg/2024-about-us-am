@@ -10,19 +10,28 @@ import SwiftUI
 struct Group2View: View {
     var body: some View {
         TabView {
-            /*@START_MENU_TOKEN@*/Text("This is person 1! Replace me with a view.")/*@END_MENU_TOKEN@*/
+            DhanvinView()
                 .tabItem {
-                    Label("Person 1", systemImage: "person.circle.fill")
+                    Label("dhanvin", image: "dhanvinpb")
                 }
             
-            /*@START_MENU_TOKEN@*/Text("This is person 2! Replace me with a view.")/*@END_MENU_TOKEN@*/
+            FeliciaView()
                 .tabItem {
-                    Label("Person 2", systemImage: "person")
+                    Label("felicia", image: "feliciapb")
                 }
             
-            /*@START_MENU_TOKEN@*/Text("This is person 3! Replace me with a view.")/*@END_MENU_TOKEN@*/
+            CKJView()
                 .tabItem {
-                    Label("Person 3", systemImage: "person.fill.turn.down")
+                    Label("kui jun", image: "skjpb")
+                }
+            
+            HongyuView()
+                .tabItem{
+                    Label("hongyu", systemImage: "hongyupb")
+                }
+            SiddarthView()
+                .tabItem{
+                    Label("siddarth", systemImage: "siddarthpb")
                 }
         }
     }

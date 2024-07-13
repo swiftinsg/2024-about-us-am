@@ -18,6 +18,11 @@
 		32DB92032C38A281008648A6 /* Group5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32DB92022C38A281008648A6 /* Group5View.swift */; };
 		32DB92052C38A287008648A6 /* Group6View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32DB92042C38A287008648A6 /* Group6View.swift */; };
 		32DB92072C38A2F8008648A6 /* InstructorMentorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32DB92062C38A2F8008648A6 /* InstructorMentorView.swift */; };
+		9D6AEC062C422BCD006ECD10 /* DhanvinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6AEC052C422BCD006ECD10 /* DhanvinView.swift */; };
+		9D6AEC082C422C09006ECD10 /* FeliciaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6AEC072C422C09006ECD10 /* FeliciaView.swift */; };
+		9D6AEC0A2C422CA4006ECD10 /* CKJView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6AEC092C422CA4006ECD10 /* CKJView.swift */; };
+		9D6AEC0C2C422CF5006ECD10 /* HongyuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6AEC0B2C422CF5006ECD10 /* HongyuView.swift */; };
+		9D6AEC102C422D39006ECD10 /* SiddarthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6AEC0F2C422D39006ECD10 /* SiddarthView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +38,11 @@
 		32DB92022C38A281008648A6 /* Group5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group5View.swift; sourceTree = "<group>"; };
 		32DB92042C38A287008648A6 /* Group6View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group6View.swift; sourceTree = "<group>"; };
 		32DB92062C38A2F8008648A6 /* InstructorMentorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructorMentorView.swift; sourceTree = "<group>"; };
+		9D6AEC052C422BCD006ECD10 /* DhanvinView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DhanvinView.swift; sourceTree = "<group>"; };
+		9D6AEC072C422C09006ECD10 /* FeliciaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeliciaView.swift; sourceTree = "<group>"; };
+		9D6AEC092C422CA4006ECD10 /* CKJView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CKJView.swift; sourceTree = "<group>"; };
+		9D6AEC0B2C422CF5006ECD10 /* HongyuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HongyuView.swift; sourceTree = "<group>"; };
+		9D6AEC0F2C422D39006ECD10 /* SiddarthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SiddarthView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +80,11 @@
 				32DB92062C38A2F8008648A6 /* InstructorMentorView.swift */,
 				32DB91FA2C38A267008648A6 /* Group1View.swift */,
 				32DB91FC2C38A26D008648A6 /* Group2View.swift */,
+				9D6AEC0F2C422D39006ECD10 /* SiddarthView.swift */,
+				9D6AEC0B2C422CF5006ECD10 /* HongyuView.swift */,
+				9D6AEC092C422CA4006ECD10 /* CKJView.swift */,
+				9D6AEC072C422C09006ECD10 /* FeliciaView.swift */,
+				9D6AEC052C422BCD006ECD10 /* DhanvinView.swift */,
 				32DB91FE2C38A272008648A6 /* Group3View.swift */,
 				32DB92002C38A27B008648A6 /* Group4View.swift */,
 				32DB92022C38A281008648A6 /* Group5View.swift */,
@@ -161,12 +176,17 @@
 				32DB91EF2C38A155008648A6 /* ContentView.swift in Sources */,
 				32DB92052C38A287008648A6 /* Group6View.swift in Sources */,
 				32DB92012C38A27B008648A6 /* Group4View.swift in Sources */,
+				9D6AEC0A2C422CA4006ECD10 /* CKJView.swift in Sources */,
+				9D6AEC082C422C09006ECD10 /* FeliciaView.swift in Sources */,
+				9D6AEC062C422BCD006ECD10 /* DhanvinView.swift in Sources */,
 				32DB92032C38A281008648A6 /* Group5View.swift in Sources */,
 				32DB91FD2C38A26D008648A6 /* Group2View.swift in Sources */,
 				32DB91FF2C38A272008648A6 /* Group3View.swift in Sources */,
 				32DB92072C38A2F8008648A6 /* InstructorMentorView.swift in Sources */,
 				32DB91ED2C38A155008648A6 /* about_us_amApp.swift in Sources */,
+				9D6AEC0C2C422CF5006ECD10 /* HongyuView.swift in Sources */,
 				32DB91FB2C38A267008648A6 /* Group1View.swift in Sources */,
+				9D6AEC102C422D39006ECD10 /* SiddarthView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
