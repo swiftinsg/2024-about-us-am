@@ -15,10 +15,18 @@ struct BryanView: View {
         ZStack{
             backgroundGradient
                 .ignoresSafeArea()
-            Image("goodmorning")
+            Image("goodmorning").scaledToFit()
             VStack{
+                ZStack {
+                    Circle()
+                        .fill(Color.yellow)
+                        .frame(width: 250, height: 100)
+                    Text("Stand for what you sit in")
+                        .fontWeight(.heavy)
+                }
                 Text("Hello, future apple fruit innovaties")
-                Image("hitlerandstalin")
+                    .font(.title)
+                Image("hitlerstalin")
             }
         }
     }
