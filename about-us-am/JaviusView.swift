@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct JaviusView: View {
-    @State var count = 0
+    @AppStorage ("counter") var count = 0
     var body: some View {
         VStack{
             Image("Javius")

@@ -26,7 +26,7 @@ struct Group1View: View {
                 }
             JaviusView()
                 .tabItem {
-                    Label("Person 3", systemImage: "person.fill.turn.down")
+                    Label("Javius", systemImage: "person.fill.turn.down")
                 }
         }
     }
