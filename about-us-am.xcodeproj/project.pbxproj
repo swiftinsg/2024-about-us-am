@@ -19,6 +19,7 @@
 		32DB92052C38A287008648A6 /* Group6View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32DB92042C38A287008648A6 /* Group6View.swift */; };
 		32DB92072C38A2F8008648A6 /* InstructorMentorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32DB92062C38A2F8008648A6 /* InstructorMentorView.swift */; };
 		3CAB1EF42C422E07007FAB09 /* JaviusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAB1EF32C422E07007FAB09 /* JaviusView.swift */; };
+		D9116F442C42319B00D063C1 /* Group1Member3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9116F432C42319B00D063C1 /* Group1Member3View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		32DB92042C38A287008648A6 /* Group6View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group6View.swift; sourceTree = "<group>"; };
 		32DB92062C38A2F8008648A6 /* InstructorMentorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructorMentorView.swift; sourceTree = "<group>"; };
 		3CAB1EF32C422E07007FAB09 /* JaviusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JaviusView.swift; sourceTree = "<group>"; };
+		D9116F432C42319B00D063C1 /* Group1Member3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group1Member3View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				32DB92062C38A2F8008648A6 /* InstructorMentorView.swift */,
 				32DB91FA2C38A267008648A6 /* Group1View.swift */,
 				3CAB1EF32C422E07007FAB09 /* JaviusView.swift */,
+				D9116F432C42319B00D063C1 /* Group1Member3View.swift */,
 				32DB91FC2C38A26D008648A6 /* Group2View.swift */,
 				32DB91FE2C38A272008648A6 /* Group3View.swift */,
 				32DB92002C38A27B008648A6 /* Group4View.swift */,
@@ -166,6 +169,7 @@
 				32DB92052C38A287008648A6 /* Group6View.swift in Sources */,
 				32DB92012C38A27B008648A6 /* Group4View.swift in Sources */,
 				32DB92032C38A281008648A6 /* Group5View.swift in Sources */,
+				D9116F442C42319B00D063C1 /* Group1Member3View.swift in Sources */,
 				32DB91FD2C38A26D008648A6 /* Group2View.swift in Sources */,
 				32DB91FF2C38A272008648A6 /* Group3View.swift in Sources */,
 				32DB92072C38A2F8008648A6 /* InstructorMentorView.swift in Sources */,

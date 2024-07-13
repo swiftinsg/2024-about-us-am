@@ -9,7 +9,18 @@ import SwiftUI
 
 struct Group1Member3View: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack{
+            Text("Sophia")
+                .bold()
+                .font(.system(size:60))
+            Image("Beetle")
+                .resizable()
+                .scaledToFit()
+                .frame(width:350)
+            Text("My pet beetle (crash landed and died 10 minutes after getting adopted)")
+                .padding()
+        }
+        .foregroundStyle(.blue)
     }
 }
 
