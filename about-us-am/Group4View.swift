@@ -10,9 +10,9 @@ import SwiftUI
 struct Group4View: View {
     var body: some View {
         TabView {
-            /*@START_MENU_TOKEN@*/Text("This is person 1! Replace me with a view.")/*@END_MENU_TOKEN@*/
+            Text("I am Ted, I have not eat breakfast yet.")
                 .tabItem {
-                    Label("Person 1", systemImage: "person.circle.fill")
+                    Label("Person 1", systemImage: "person.crop.circle.fill.badge.questionmark.ar")
                 }
             
             /*@START_MENU_TOKEN@*/Text("This is person 2! Replace me with a view.")/*@END_MENU_TOKEN@*/
