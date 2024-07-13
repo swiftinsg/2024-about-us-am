@@ -18,6 +18,7 @@
 		32DB92032C38A281008648A6 /* Group5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32DB92022C38A281008648A6 /* Group5View.swift */; };
 		32DB92052C38A287008648A6 /* Group6View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32DB92042C38A287008648A6 /* Group6View.swift */; };
 		32DB92072C38A2F8008648A6 /* InstructorMentorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32DB92062C38A2F8008648A6 /* InstructorMentorView.swift */; };
+		3CAB1EF42C422E07007FAB09 /* JaviusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAB1EF32C422E07007FAB09 /* JaviusView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		32DB92022C38A281008648A6 /* Group5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group5View.swift; sourceTree = "<group>"; };
 		32DB92042C38A287008648A6 /* Group6View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group6View.swift; sourceTree = "<group>"; };
 		32DB92062C38A2F8008648A6 /* InstructorMentorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructorMentorView.swift; sourceTree = "<group>"; };
+		3CAB1EF32C422E07007FAB09 /* JaviusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JaviusView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				32DB91EE2C38A155008648A6 /* ContentView.swift */,
 				32DB92062C38A2F8008648A6 /* InstructorMentorView.swift */,
 				32DB91FA2C38A267008648A6 /* Group1View.swift */,
+				3CAB1EF32C422E07007FAB09 /* JaviusView.swift */,
 				32DB91FC2C38A26D008648A6 /* Group2View.swift */,
 				32DB91FE2C38A272008648A6 /* Group3View.swift */,
 				32DB92002C38A27B008648A6 /* Group4View.swift */,
@@ -158,6 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3CAB1EF42C422E07007FAB09 /* JaviusView.swift in Sources */,
 				32DB91EF2C38A155008648A6 /* ContentView.swift in Sources */,
 				32DB92052C38A287008648A6 /* Group6View.swift in Sources */,
 				32DB92012C38A27B008648A6 /* Group4View.swift in Sources */,
