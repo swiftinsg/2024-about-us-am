@@ -18,6 +18,7 @@
 		32DB92032C38A281008648A6 /* Group5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32DB92022C38A281008648A6 /* Group5View.swift */; };
 		32DB92052C38A287008648A6 /* Group6View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32DB92042C38A287008648A6 /* Group6View.swift */; };
 		32DB92072C38A2F8008648A6 /* InstructorMentorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32DB92062C38A2F8008648A6 /* InstructorMentorView.swift */; };
+		5AB2E6CA2C422E8E0074ED89 /* Group5CalvinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AB2E6C92C422E8E0074ED89 /* Group5CalvinView.swift */; };
 		811C9E8B2C4227E500ADBD95 /* Avyan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811C9E8A2C4227E500ADBD95 /* Avyan.swift */; };
 /* End PBXBuildFile section */
 
@@ -34,6 +35,7 @@
 		32DB92022C38A281008648A6 /* Group5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group5View.swift; sourceTree = "<group>"; };
 		32DB92042C38A287008648A6 /* Group6View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group6View.swift; sourceTree = "<group>"; };
 		32DB92062C38A2F8008648A6 /* InstructorMentorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructorMentorView.swift; sourceTree = "<group>"; };
+		5AB2E6C92C422E8E0074ED89 /* Group5CalvinView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group5CalvinView.swift; sourceTree = "<group>"; };
 		811C9E8A2C4227E500ADBD95 /* Avyan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Avyan.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				811C9E8A2C4227E500ADBD95 /* Avyan.swift */,
+				5AB2E6C92C422E8E0074ED89 /* Group5CalvinView.swift */,
 			);
 			path = "gp5 views";
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				32DB92012C38A27B008648A6 /* Group4View.swift in Sources */,
 				32DB92032C38A281008648A6 /* Group5View.swift in Sources */,
 				32DB91FD2C38A26D008648A6 /* Group2View.swift in Sources */,
+				5AB2E6CA2C422E8E0074ED89 /* Group5CalvinView.swift in Sources */,
 				32DB91FF2C38A272008648A6 /* Group3View.swift in Sources */,
 				32DB92072C38A2F8008648A6 /* InstructorMentorView.swift in Sources */,
 				32DB91ED2C38A155008648A6 /* about_us_amApp.swift in Sources */,

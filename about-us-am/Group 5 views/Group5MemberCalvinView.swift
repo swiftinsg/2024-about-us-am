@@ -7,12 +7,15 @@
 
 import SwiftUI
 
-struct Group5MemberCalvinView: View {
+struct Group5CalvinView: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        ZStack{
+            
+        }
+        .ignoresSafeArea()
     }
 }
 
 #Preview {
-    Group5MemberCalvinView()
+    Group5CalvinView()
 }
