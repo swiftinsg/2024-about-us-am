@@ -15,7 +15,7 @@ struct Group5View: View {
                     Label("Person 1", systemImage: "person.circle.fill")
                 }
             
-            /*@START_MENU_TOKEN@*/Text("This is person 2! Replace me with a view.")/*@END_MENU_TOKEN@*/
+            Group5CalvinView()
                 .tabItem {
                     Label("Person 2", systemImage: "person")
                 }
