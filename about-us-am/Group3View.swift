@@ -20,9 +20,9 @@ struct Group3View: View {
                     Label("Person 2", systemImage: "person")
                 }
             
-            /*@START_MENU_TOKEN@*/Text("This is person 3! Replace me with a view.")/*@END_MENU_TOKEN@*/
+            Text("Hi Im here")
                 .tabItem {
-                    Label("Person 3", systemImage: "person.fill.turn.down")
+                    Label("Pavi", systemImage: "cloud")
                 }
         }
     }
