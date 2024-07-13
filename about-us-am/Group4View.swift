@@ -20,7 +20,7 @@ struct Group4View: View {
                     Label("Person 2", systemImage: "person")
                 }
             
-            YukJun()
+            Text("Yuk Jun")
                 .tabItem {
                     Label("Person 3", systemImage: "person.fill.turn.down")
                 }

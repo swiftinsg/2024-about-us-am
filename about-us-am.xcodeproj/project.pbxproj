@@ -99,11 +99,8 @@
 			isa = PBXGroup;
 			children = (
 				811C9E8A2C4227E500ADBD95 /* Avyan.swift */,
-<<<<<<< HEAD
 				5AB2E6C92C422E8E0074ED89 /* Group5CalvinView.swift */,
-=======
 				04BC2A7C2C422F820068AEDC /* BryanView.swift */,
->>>>>>> main
 			);
 			path = "gp5 views";
 			sourceTree = "<group>";
