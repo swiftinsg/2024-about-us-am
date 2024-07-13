@@ -15,9 +15,9 @@ struct Group3View: View {
                     Label("Person 1", systemImage: "person.circle.fill")
                 }
             
-            /*@START_MENU_TOKEN@*/Text("This is person 2! Replace me with a view.")/*@END_MENU_TOKEN@*/
+            Text("Elephant")
                 .tabItem {
-                    Label("Person 2", systemImage: "person")
+                    Label("Sarah", systemImage: "person")
                 }
             
             Text("Hi Im here")
